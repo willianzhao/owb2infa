@@ -7,13 +7,18 @@ First, the OWB metadata can be retrieved using OWB Java API and generate the int
 
 * Demo video
 
-< iframe title="owb2infa demo" width="480" height="390" src="http://youtu.be/Evujv7n8TiM" frameborder="0" allowfullscreen>< /iframe>
+http://youtu.be/Evujv7n8TiM
 
 * Pre-requirements
 
 ** Informatica Java API
+
 ** JAXB libraries in Informatica 
+
 ** Oracle Warehouse Builder (OWB) Java API
+
 ** [Xstream](http://xstream.codehaus.org "Xstream")
+
 ** Oracle JDBC driver
+
 ** Log4j 2
