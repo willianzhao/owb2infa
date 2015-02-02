@@ -11,14 +11,9 @@ http://youtu.be/Evujv7n8TiM
 
 * Pre-requirements
 
-** Informatica Java API
-
-** JAXB libraries in Informatica 
-
-** Oracle Warehouse Builder (OWB) Java API
-
-** [Xstream](http://xstream.codehaus.org "Xstream")
-
-** Oracle JDBC driver
-
-** Log4j 2
+ - Informatica Java API
+ - JAXB libraries in Informatica 
+ - Oracle Warehouse Builder (OWB) Java API
+ -  [Xstream](http://xstream.codehaus.org "Xstream")
+ -   Oracle JDBC driver
+ -   Log4j 2
