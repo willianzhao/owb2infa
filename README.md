@@ -17,3 +17,6 @@ http://youtu.be/Evujv7n8TiM
  -  [Xstream](http://xstream.codehaus.org "Xstream")
  -   Oracle JDBC driver
  -   Log4j 2
+
+## License
+This software is issued under the Apache 2 license.
