@@ -3,8 +3,10 @@ This project is to create a tool to support automatically migrate mapping from O
 
 * Data flow
 
-First, the OWB metadata can be retrieved using OWB Java API and generate the intermedia xml files. Then the tool will read these metadata and manipulate Informatica mapping xml using Design API. Please check [here](https://github.com/willianzhao/owb2infa/blob/master/doc/HighLevelArch.png "High level data flow") for the data flow diagram.
-
+First, the OWB metadata can be retrieved using OWB Java API and generate the intermedia xml files. Then the tool will read these metadata and manipulate Informatica mapping xml using Design API. Please check the high level architecture diagram: 
+<br>
+![the high level arch](doc/HighLevelArch.png)
+<br>
 * Demo video
 
 http://youtu.be/Evujv7n8TiM
